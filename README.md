@@ -1,5 +1,5 @@
 # Add-ons
-A couple of programs I created to (possibly) use on a Raspberry Pi
+Some programs for fun to try on a Raspberry Pi
 
 
 Write File:\
